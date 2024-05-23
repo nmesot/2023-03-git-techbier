@@ -3,7 +3,7 @@
 ## Generate User Context
 
 this is a change
-and a second one
+and a second one.
 
 Generate a user's context with:
 
